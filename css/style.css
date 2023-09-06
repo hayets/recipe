@@ -50,6 +50,10 @@ img {
 	font-size: 20px;
 }
 
+.header a{
+	color: #FFA07A;
+}
+
 
 .container{
 	display: flex;
